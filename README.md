@@ -1,2 +1,4 @@
 # my-first-react
-React Ajarn Happy
+Subject: Web service
+
+This repository happened when I started studying ReactJS in Year 2.
